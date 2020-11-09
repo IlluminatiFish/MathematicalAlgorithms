@@ -1,5 +1,7 @@
 # Reference: https://en.wikipedia.org/wiki/Bitwise_operation
 
+# Notice: The following inequality must be satifised for both shifts, n => 0
+
 from math import log
 
 '''
