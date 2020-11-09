@@ -1,3 +1,5 @@
+# Reference: https://en.wikipedia.org/wiki/Bitwise_operation
+
 from math import log
 
 '''
