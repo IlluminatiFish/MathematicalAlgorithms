@@ -11,8 +11,8 @@ def collatzConjecture(number):  # Define the function of collatz's conjecture
 
     elif number % 2 == 1:  # Check the number is an odd
         result = 3 * number + 1  # Do the collatz's conjecture odd function
-        # print(result)
         results.append(result)  # Append results to a list of results
+        
         return result  # Return the result
 
 
