@@ -20,8 +20,6 @@ def collatzConjecture(number):  # Define the function of collatz's conjecture
 random_int = random.randint(1, 99999)
 print("Using value {} for Collatz's Conjecture".format(random_int))  # Print what value the function will use
 
-digits = len(str(n))  # Amount of digits in the number
-
 start = time.time()  # Start time of function
 
 while random_int != 1:  # While the conjecture doesn't return 1
