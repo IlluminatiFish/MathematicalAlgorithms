@@ -1,7 +1,7 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/587d2e1542a54620bee6384e8b58a831)](https://www.codacy.com/gh/IlluminatiFish/MathematicalAlgorithms/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=IlluminatiFish/MathematicalAlgorithms&amp;utm_campaign=Badge_Grade)
+<br>
 ## Project Name
 Mathematical Algorithms
-<br>
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/587d2e1542a54620bee6384e8b58a831)](https://www.codacy.com/gh/IlluminatiFish/MathematicalAlgorithms/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=IlluminatiFish/MathematicalAlgorithms&amp;utm_campaign=Badge_Grade)
 
 ## Description
 This repository contains a wide array of mathematical and computational algorithms written in Python. The algorithms range from Number Theory Mathematics to Computational algorithms such as Bit wise shifts.
