@@ -9,8 +9,8 @@ from math import log
 
     Operation must have the form:
         k << n = y
-
 '''
+
 def left_shift(k=None, n=None, y=None):
     
     '''
@@ -44,8 +44,8 @@ def left_shift(k=None, n=None, y=None):
 
     Operation must have the form:
         k >> n = y
-
 '''
+
 def right_shift(k=None, n=None, y=None):
     
     '''
